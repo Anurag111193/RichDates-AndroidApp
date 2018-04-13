@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RichDate\'s</string>
+    <string name="title_activity_main">Rich Dates</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Working On it!!!</string>
+    <string name="hello_world">Hello World</string>
+
+    <string name="action_settings">Friends List</string>
+
+
+    <string name="swipe_left">Swipe left</string>
+    <string name="swipe_right">Swipe right</string>
+    <string name="view_swiped_left">%1$s swiped to left!</string>
+    <string name="view_swiped_right">%1$s swiped to right!</string>
+    <string name="dummy_text">Test</string>
+    <string name="dummy_fab">Fab Test</string>
+
+    <string name="reset">Reset stack</string>
+    <string name="stack_reset">Stack reset!</string>
+    <string name="stack_empty">Card stack empty!</string>
+    <string name="github">View on GitHub</string>
+    <string name="action_logout">Logout</string>
+</resources>

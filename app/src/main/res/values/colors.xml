@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#df2121</color>
+    <color name="statusBarColor">#df2121</color>
+    <color name="screen1">#df2121</color>
+    <color name="screen2">#9C27B0</color>
+    <color name="screen3">#2196F3</color>
+
+    <color name="toolbarnew">#1565C0</color>
+    <color name="dotDarkScreen">#000000</color>
+    <color name="dotLightScreen">#607D8B</color>
+
+    <array name="dotActive">
+
+        <item>@color/dotDarkScreen</item>
+        <item>@color/dotDarkScreen</item>
+        <item>@color/dotDarkScreen</item>
+
+    </array>
+    <array name="dotInactive">
+        <item>@color/dotLightScreen</item>
+        <item>@color/dotLightScreen</item>
+        <item>@color/dotLightScreen</item>
+    </array>
+</resources>
